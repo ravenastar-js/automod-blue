@@ -12,7 +12,7 @@ Automatize a moderação da sua conta no Bluesky! O AutoMod Blue te ajuda a:
 ## Recursos
 
 - [x] **Autenticação segura:** Suporta login com nome de usuário (handler), senha e autenticação de dois fatores (2FA).
-- [x] **Bloqueio em massa:** Bloqueie automaticamente usuários, tags e termos indesejados em grande escala.
+- [x] **Bloqueio em massa:** Bloqueie usuários, tags e termos indesejados em grande escala.
 - [x] **Tecnologia:** JavaScript (Node.js & Discord.js), MongoDB e a API de Bluesky.
 - [x] **API do Bluesky:** Integração com a API oficial do Bluesky: https://docs.bsky.app/docs/category/http-reference 
 - [ ] Mais recursos em breve!
